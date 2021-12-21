@@ -35,7 +35,7 @@
 
 #social_box li {
 	display: block;
-	float: left;
+	float: center;
 	padding: 0;
 	margin: 0;
 }
